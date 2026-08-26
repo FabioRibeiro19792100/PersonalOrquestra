@@ -26,17 +26,14 @@ const caseSources:Record<string,{label:string;url:string;note?:string}[]>={
     {label:"Business Insider — Saltz e procurement agentic",url:"https://www.businessinsider.com/agentic-ai-platform-saltz-modernizes-restaurant-food-procurement-2026-4"}
   ],
   "luiz-marcelo":[{label:"Portal do Franchising / ABF — case Grupo Trigo",url:"https://www.portaldofranchising.com.br/noticias/inteligencia-artificial-franchising-abf-expo-2026/"}],
-  "jose-henrique":[{label:"Reuters — Goldman Sachs + Anthropic",url:"https://www.reuters.com/business/finance/goldman-sachs-teams-up-with-anthropic-automate-banking-tasks-with-ai-agents-cnbc-2026-02-06/"}],
+  "jose-henrique":[
+    {label:"Anthropic — agentes para serviços financeiros",url:"https://www.anthropic.com/news/finance-agents"},
+    {label:"Goldman Sachs — IA, APIs e agentes em treasury",url:"https://www.goldmansachs.com/what-we-do/transaction-banking/insights/why-ai-and-apis-are-strategic-imperatives"}
+  ],
   "joao-pinho":[{label:"BCG — Rebuilding Asset Management for an AI-First World",url:"https://www.bcg.com/ja-jp/publications/2026/rebuilding-asset-management-for-an-ai-first-world",note:"Referência setorial; não representa implementação da Kapitalo."}],
   "flavio-clemente":[{label:"BCG — Rebuilding Asset Management for an AI-First World",url:"https://www.bcg.com/ja-jp/publications/2026/rebuilding-asset-management-for-an-ai-first-world",note:"Referência setorial transposta para family office; não representa implementação da Heuris."}],
-  "nadja-brandao":[
-    {label:"Freshfields — AI Legal Workflows com Anthropic",url:"https://www.freshfields.com/en/our-thinking/news/news-search/2026/04/freshfields-and-anthropic-team-up-to-co-build-ai-legal-workflows-deploying-claude-across-the-firm-globally"},
-    {label:"Financial Times — Anthropic e Freshfields",url:"https://www.ft.com/content/99c6303e-f8d0-441e-b869-6d9496874b64"}
-  ],
-  "mauricio-magalhaes":[
-    {label:"Axios — Gradial e agentic marketing",url:"https://www.axios.com/2026/06/18/gradial-ai-agents-marketing"},
-    {label:"Gradial — case T-Mobile",url:"https://www.gradial.com/customers/t-mobile"}
-  ],
+  "nadja-brandao":[{label:"Freshfields — AI Legal Workflows com Anthropic",url:"https://www.freshfields.com/en/our-thinking/news/news-search/2026/04/freshfields-and-anthropic-team-up-to-co-build-ai-legal-workflows-deploying-claude-across-the-firm-globally"}],
+  "mauricio-magalhaes":[{label:"Gradial — case T-Mobile",url:"https://www.gradial.com/customers/t-mobile"}],
   "patricia-coimbra":[{label:"BCG — Reinvention of the CHRO in an AI-Driven Enterprise",url:"https://www.bcg.com/publications/2026/reinvention-of-the-chro-in-an-ai-driven-enterprise",note:"Tese e modelo operacional; não representa implementação da Porto."}],
   "jose-moreira":[{label:"Santander — pagamentos com agentes de IA na América Latina",url:"https://www.santander.com/en/press-room/press-releases/2026/03/santander-and-visa-deliver-latin-americas-first-end-to-end-payments-powered-by-ai-agents"}]
 };
