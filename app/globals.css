@@ -21,5 +21,6 @@
 .pageIntro{background:#f4f6f2;padding:44px 6vw 8px}.pageIntro span{display:block;color:#59615c;font-size:11px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;margin-bottom:12px}.pageIntro h1{font-family:Arial,"Helvetica Neue",sans-serif;font-size:clamp(36px,5vw,64px);font-weight:400;letter-spacing:-.05em;line-height:1;margin:0}
 @media(max-width:800px){.topbar{height:68px}.topbar .brand img{width:118px}.directory{padding-top:26px}}
 @media(max-width:800px){.pageIntro{padding:34px 20px 4px}.pageIntro h1{font-size:38px}}
+.sourceList{margin-top:24px;padding-top:18px;border-top:1px solid #cbd1cb;display:grid;gap:14px}.sourceList>div{display:grid;gap:5px}.sourceList a{color:var(--ink);font-size:13px;font-weight:700;text-decoration:none}.sourceList a:hover{text-decoration:underline}.sourceList a b{color:#35c914}.sourceList small{color:#5f6762;font-size:11px;line-height:1.4}
 .directory{padding-top:42px}.sectionHead{margin-bottom:24px}.profileCard{min-height:235px}
 @media(max-width:800px){.hero{display:block;padding:48px 20px 42px}.hero:before{display:none}.heroKicker{margin-bottom:24px}.hero h1{font-size:47px;line-height:.9}.hero>p{margin-top:28px;font-size:12px}.directory{padding-top:34px}.profileCard{min-height:205px}}
